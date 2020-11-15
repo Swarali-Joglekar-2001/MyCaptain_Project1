@@ -32,7 +32,7 @@ else if(age<18)
 	std::cout<<"\nYou are not eligible for voting";
 
 }
-
+return 0;
 }
 
 
